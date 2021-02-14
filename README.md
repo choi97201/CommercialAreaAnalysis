@@ -30,72 +30,72 @@ seaborn
 
 
 
-![미용](results\sales\미용.png)
+![미용](results/sales/미용.png)
 
-![소매업](D:\han_project03\results\sales\소매업.png)
+![소매업](results/sales/소매업.png)
 
-![여가오락](D:\han_project03\results\sales\여가오락.png)
+![여가오락](results/sales/여가오락.png)
 
-![음식업](D:\han_project03\results\sales\음식업.png)
+![음식업](results/sales/음식업.png)
 
 
 
-![학문교육](D:\han_project03\results\sales\학문교육.png)
+![학문교육](results/sales/학문교육.png)
 
 #### 시간대별 매출
 
 
 
-![시간대별_학문교육](D:\han_project03\results\sales\시간대별_학문교육.png)
+![시간대별_학문교육](results/sales/시간대별_학문교육.png)
 
-![시간대별_의약의료](D:\han_project03\results\sales\시간대별_의약의료.png)
+![시간대별_의약의료](results/sales/시간대별_의약의료.png)
 
-![시간대별_IT기기](D:\han_project03\results\sales\시간대별_IT기기.png)
+![시간대별_IT기기](results/sales/시간대별_IT기기.png)
 
-![시간대별_미용](D:\han_project03\results\sales\시간대별_미용.png)
+![시간대별_미용](results/sales/시간대별_미용.png)
 
-![시간대별_소매업](D:\han_project03\results\sales\시간대별_소매업.png)
+![시간대별_소매업](results/sales/시간대별_소매업.png)
 
-![시간대별_여가오락](D:\han_project03\results\sales\시간대별_여가오락.png)
+![시간대별_여가오락](results/sales/시간대별_여가오락.png)
 
-![시간대별_음식업](D:\han_project03\results\sales\시간대별_음식업.png)
+![시간대별_음식업](results/sales/시간대별_음식업.png)
 
 #### 연령대별
 
-![연령대별_학문교육](D:\han_project03\results\sales\연령대별_학문교육.png)
+![연령대별_학문교육](results/sales/연령대별_학문교육.png)
 
-![연령대별_IT기기](D:\han_project03\results\sales\연령대별_IT기기.png)
+![연령대별_IT기기](results/sales/연령대별_IT기기.png)
 
-![연령대별_미용](D:\han_project03\results\sales\연령대별_미용.png)
+![연령대별_미용](results/sales/연령대별_미용.png)
 
-![연령대별_소매업](D:\han_project03\results\sales\연령대별_소매업.png)
+![연령대별_소매업](results/sales/연령대별_소매업.png)
 
-![연령대별_여가오락](D:\han_project03\results\sales\연령대별_여가오락.png)
+![연령대별_여가오락](results/sales/연령대별_여가오락.png)
 
-![연령대별_음식업](D:\han_project03\results\sales\연령대별_음식업.png)
+![연령대별_음식업](results/sales/연령대별_음식업.png)
 
-![연령대별_의약의료](D:\han_project03\results\sales\연령대별_의약의료.png)
+![연령대별_의약의료](results/sales/연령대별_의약의료.png)
 
 #### 요일별
 
-![요일별_학문교육](D:\han_project03\results\sales\요일별_학문교육.png)
+![요일별_학문교육](results/sales/요일별_학문교육.png)
 
-![요일별_의약의료](D:\han_project03\results\sales\요일별_의약의료.png)
+![요일별_의약의료](results/sales/요일별_의약의료.png)
 
-![요일별_IT기기](D:\han_project03\results\sales\요일별_IT기기.png)
+![요일별_IT기기](results/sales/요일별_IT기기.png)
 
-![요일별_미용](D:\han_project03\results\sales\요일별_미용.png)
+![요일별_미용](results/sales/요일별_미용.png)
 
-![요일별_소매업](D:\han_project03\results\sales\요일별_소매업.png)
+![요일별_소매업](results/sales/요일별_소매업.png)
 
-![요일별_여가오락](D:\han_project03\results\sales\요일별_여가오락.png)
+![요일별_여가오락](results/sales/요일별_여가오락.png)
 
-![요일별_음식업](D:\han_project03\results\sales\요일별_음식업.png)
+![요일별_음식업](results/sales/요일별_음식업.png)
 
 #### 유동인구
 
-![연령대별](D:\han_project03\results\floating\연령대별.png)
+![연령대별](results/floating/연령대별.png)
 
-![요일별](D:\han_project03\results\floating\요일별.png)
+![요일별](results/floating/요일별.png)
 
-![시간대별](D:\han_project03\results\floating\시간대별.png)
+![시간대별](results/floating/시간대별.png)
