@@ -26,11 +26,11 @@ seaborn
 
 #### 분기별 매출
 
-![IT기기](D:\han_project03\results\sales\IT기기.png)
+![IT기기](results\sales\IT기기.png)
 
 
 
-![미용](D:\han_project03\results\sales\미용.png)
+![미용](results\sales\미용.png)
 
 ![소매업](D:\han_project03\results\sales\소매업.png)
 
