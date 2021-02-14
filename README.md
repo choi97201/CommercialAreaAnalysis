@@ -26,7 +26,7 @@ seaborn
 
 #### 분기별 매출
 
-![IT기기](results\sales\IT기기.png)
+![IT기기](results/sales/IT기기.png)
 
 
 
