@@ -1,6 +1,6 @@
 
 
-# Commercial area analysis project
+# Commercial area analysis project( 코로나19 확산에 따른 서울시 골목 상권의 업종별, 지역별 변화 연구)
 
 ## Abstract
 
